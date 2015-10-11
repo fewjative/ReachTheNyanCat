@@ -1,0 +1,9 @@
+Package: com.joshdoctors.reachthenyancat
+Name: ReachTheNyanCat
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Puts an animated Nyan Cat in your Reachability View.
+Maintainer: Josh Doctors
+Author: Josh Doctors
+Section: Tweaks
